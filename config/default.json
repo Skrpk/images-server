@@ -1,0 +1,12 @@
+{
+  "PORT": "3000",
+  "AUTH_URL": "http://interview.agileengine.com/auth",
+  "TOKEN_REFRESH_TIMEOUT": "*/5 * * * *",
+  "IMAGES_SERVICE_URL": "http://interview.agileengine.com",
+  "API_KEY": "23567b218376f79d9415",
+  "REDIS_HOST": "redis-server",
+  "REDIS_PORT": "6379",
+  "CACHE_REFRESH_TIMEOUT": "*/5 * * * *",
+  "MONGO_HOST": "mongo-server",
+  "MONGO_PORT": "27017"
+}
