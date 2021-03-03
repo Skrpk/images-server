@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start:dev": "nodemon --inspect=9229",
+    "start": "ts-node src/index.ts",
     "lint": "tslint --project tsconfig.json --config tslint.json"
   },
   "author": "",

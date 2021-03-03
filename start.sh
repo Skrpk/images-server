@@ -2,4 +2,4 @@
 
 npm i
 
-npm run start:dev
+npm start
